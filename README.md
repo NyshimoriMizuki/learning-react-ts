@@ -1,0 +1,1 @@
+eu aprendendo react com typescript
